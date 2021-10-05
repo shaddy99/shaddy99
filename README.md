@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaddy99
-- 👀 I’m interested in MERN
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me shahadshafi497@gmail.com
 
 
